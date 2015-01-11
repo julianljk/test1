@@ -1,2 +1,2 @@
-"This is stuff in my gitTester file";
-Version5;
+"this is stuff in my gitTester file";
+Version6;
